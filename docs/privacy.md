@@ -1,4 +1,4 @@
-# Политика конфиденциальности TimeNest
+# Политика конфиденциальности NestScreen
 
 > Черновик. Его нужно опубликовать по публичному URL (GitHub Pages, Notion,
 > собственный сайт) и указать этот URL в Play Console. Замените
@@ -10,7 +10,7 @@
 
 ## 1. Что делает приложение
 
-TimeNest — трекер экранного времени и инструмент родительского контроля.
+NestScreen — трекер экранного времени и инструмент родительского контроля.
 Приложение считает, сколько времени вы проводите в приложениях на устройстве,
 позволяет блокировать выбранные приложения, запускать фокус-сессии и — в
 семейном режиме — видеть статистику устройства ребёнка и управлять его
@@ -79,7 +79,7 @@ TimeNest — трекер экранного времени и инструме�
 
 # Privacy Policy (English summary)
 
-TimeNest is a screen-time tracker and parental-control tool. It processes app usage
+NestScreen is a screen-time tracker and parental-control tool. It processes app usage
 time locally, and — in family mode — syncs the parent's email, family/device names,
 daily usage totals and control commands through Supabase. No screen content,
 keystrokes, messages, contacts, photos, precise location or advertising IDs are
